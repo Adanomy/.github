@@ -22,7 +22,14 @@ systems on real routes.
 
 ## Open source
 
-Coming soon..
+- **[CARLA Exporter](https://github.com/Adanomy/carla-exporter)**  
+  Prometheus exporter for monitoring CARLA simulation performance,
+  world state, and vehicle telemetry. Includes a Grafana dashboard.
+
+- **[Autoware Exporter](https://github.com/Adanomy/autoware-exporter)**  
+  Prometheus exporter for monitoring Autoware vehicle states,
+  ROS 2 diagnostics, and performance across multiple vehicles.
+  Includes a Grafana dashboard.
 
 ## Get in touch
 
